@@ -18,6 +18,21 @@ Twist and Shout -> (not) Gira y Grita -> Twist and Shout
 Young Boy -> (not) Joven -> Chico Joven
 
 	Terminology:
-Proxy -> Apoderado (¿Maybe poseído as in possessed?)
+Proxy (verb)-> Poseer
+Proxy (noun) -> Poseso
 Drawn -> Llevado (?)
-	i don't really understand the way "proxy" and "drawn" are used as nouns and verb, i think it's necessary to define those terms. 
+Deck -> Mazo
+Time Tracker -> Contador de Tiempo
+
+
+
+
+
+
+
+
+
+
+
+
+
