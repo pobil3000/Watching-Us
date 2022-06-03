@@ -1,5 +1,9 @@
-I've passed the Watching Us sheet throught the Google Translator document translator, then edited the thing that were messed up. 
+I've passed the Watching Us sheet throught the Google Translator Document Translator (GTDT), then edited the thing that were messed up. 
 Notice that most of the cells start with a space, that is a GTDT problem, i don't know how to remove it automatically. 
+
+Document naming: 
+_tr_mod.ods means that it's my modification of the GTDT document. 
+
 
 Traductions that involved "creative decisions", regarding the Google translation:
 
@@ -20,4 +24,4 @@ Young Boy -> (not) Joven -> Chico Joven
 	Terminology:
 Proxy -> Apoderado (¿Maybe poseído as in possessed?)
 Drawn -> Llevado (?)
-	i don't really understand the way "proxy" and "drawn" are used as nouns and verb, i think it's necessary to define those terms. 
+	***i don't really understand the way "proxy" and "drawn" are used as nouns and verb, i think it's necessary to define those terms. 
