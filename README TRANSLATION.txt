@@ -23,6 +23,9 @@ Proxy (noun) -> Poseso
 Drawn -> Llevado (?)
 Deck -> Mazo
 Time Tracker -> Contador de Tiempo
+Adjective -> Adjetiva (femenine gender)
+Location -> Localización
+Place -> Lugar
 
 
 
